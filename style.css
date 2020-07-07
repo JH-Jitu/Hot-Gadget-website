@@ -1,0 +1,57 @@
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;   
+}
+.carousel-item{
+    padding: 20px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, rgb(48, 22, 58), rgb(25, 9, 41));
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 9px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 10%;
+}
+
+.carousel-indicators li{
+    width: 15px;
+    height: 8px;
+    background-color: rgb(130, 130, 190);
+    background-color: darkblue;
+    
+  
+}
+.carousel-indicators li.active{
+    width: 30px;
+    height: 8px;
+    background-color: darkblue;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(204, 231, 240);
+}
+h1{
+    color: rgb(97, 97, 109);
+}
+h5{
+    color: darkblue;
+}
+.card-2{
+    box-shadow: 3px 8px rgb(247, 230, 230);
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border: 1px rgb(238, 230, 230) solid;
+}
+.last-part-2{
+
+    width: 100%;
+}
