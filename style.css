@@ -3,7 +3,13 @@
 }
 .orange-bg{
     background-color: #fceae8;
-    border-radius: 10px;   
+    border-radius: 10px;
+}
+.asd{
+    background-image: url(best-product.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;   
 }
 .carousel-item{
     padding: 20px;
@@ -49,13 +55,14 @@ h5{
     box-shadow: 3px 8px rgb(247, 230, 230);
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
-    
+    border: 1px rgb(238, 227, 227) solid;
     width: 150px;
     box
 }
 .card-2 img{
-    padding: 20%;
+    padding: 20% ;
 }
+
 .card-body-1{
     padding: 5px;
 }
